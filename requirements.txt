@@ -3,5 +3,4 @@ numpy==1.26.4
 Pillow
 opencv-python-headless
 scipy
-face-recognition-models==0.3.0
 dlib-bin==19.24.6
