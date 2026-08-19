@@ -67,8 +67,6 @@ Run:
 python -m streamlit run app.py
 ```
 
-## How it works
-
 ### Registration
 
 1. User enters name, email and employee ID.
@@ -130,7 +128,3 @@ SQLite stores:
 - logout_time
 
 The face encoding is stored as a BLOB.
-
-## Important
-
-This project is intended as a learning/prototype authentication system. Face recognition can produce false matches or false rejections. For a production authentication system, use additional security controls such as liveness detection, encryption/protection of biometric templates, rate limiting, audit logging and appropriate consent/privacy controls.
