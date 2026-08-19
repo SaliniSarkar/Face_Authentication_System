@@ -66,7 +66,7 @@ Run:
 ```powershell
 python -m streamlit run app.py
 ```
-**##How it works**
+**How it works**
 
 ### Registration
 
